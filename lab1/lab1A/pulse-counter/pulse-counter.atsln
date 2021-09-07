@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "pulse-counter", "pulse-counter\pulse-counter.asmproj", "{CEFED561-774A-4E88-A82C-40D25EA0409A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEFED561-774A-4E88-A82C-40D25EA0409A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{CEFED561-774A-4E88-A82C-40D25EA0409A}.Debug|AVR.Build.0 = Debug|AVR
+		{CEFED561-774A-4E88-A82C-40D25EA0409A}.Release|AVR.ActiveCfg = Release|AVR
+		{CEFED561-774A-4E88-A82C-40D25EA0409A}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
