@@ -1,0 +1,47 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\Debug/IDassembly.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>IDassembly.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>IDassembly.map</FILE>
+  <FILE>IDassembly.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>49</LINE></RESET>
+  <USART_INIT><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>85</LINE></USART_INIT>
+  <READY_TO_GO><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>67</LINE></READY_TO_GO>
+  <FOREVER><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>72</LINE></FOREVER>
+  <USART_RECEIVE><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>122</LINE></USART_RECEIVE>
+  <CHECK_SWITCH><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>190</LINE></CHECK_SWITCH>
+  <PROMPT><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>228</LINE></PROMPT>
+  <SENDS><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>157</LINE></SENDS>
+  <USART_TRANSMIT><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>106</LINE></USART_TRANSMIT>
+  <WAIT_TRANSMIT><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>109</LINE></WAIT_TRANSMIT>
+  <TRASH><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>133</LINE></TRASH>
+  <CONFIRMATION><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>140</LINE></CONFIRMATION>
+  <RESULT><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>231</LINE></RESULT>
+  <CRLF><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>234</LINE></CRLF>
+  <SENDS_REP><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>160</LINE></SENDS_REP>
+  <END_SENDS><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>166</LINE></END_SENDS>
+  <COMMAND><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>175</LINE></COMMAND>
+  <INCREMENTS><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>205</LINE></INCREMENTS>
+  <DECREMENTS><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>217</LINE></DECREMENTS>
+  <WAIT_SWITCH_RELEASE><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>195</LINE></WAIT_SWITCH_RELEASE>
+  <CONTADOR_BYTE><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>245</LINE></CONTADOR_BYTE>
+  <CONTADOR_WORD><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab1\lab1\IDassembly\IDassembly\IDassembly.asm</FILE><LINE>247</LINE></CONTADOR_WORD>
+ </LABELS>
+</ASSEMBLER_INFO>
