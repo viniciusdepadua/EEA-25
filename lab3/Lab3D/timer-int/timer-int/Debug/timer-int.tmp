@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\Lab3D\timer-int\timer-int\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\Lab3D\timer-int\timer-int\timer-int.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\Lab3D\timer-int\timer-int\Debug/timer-int.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>timer-int.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>timer-int.map</FILE>
+  <FILE>timer-int.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\Lab3D\timer-int\timer-int\timer-int.asm</FILE><LINE>83</LINE></RESET>
+  <VETOR_TIMER1_COMPA><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\Lab3D\timer-int\timer-int\timer-int.asm</FILE><LINE>78</LINE></VETOR_TIMER1_COMPA>
+  <TIMER1_COMPA_INTERRUPT><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\Lab3D\timer-int\timer-int\timer-int.asm</FILE><LINE>115</LINE></TIMER1_COMPA_INTERRUPT>
+  <INIT_PORTS><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\Lab3D\timer-int\timer-int\timer-int.asm</FILE><LINE>175</LINE></INIT_PORTS>
+  <USART0_INIT><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\Lab3D\timer-int\timer-int\timer-int.asm</FILE><LINE>193</LINE></USART0_INIT>
+  <TIMER1_INIT_MODE4><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\Lab3D\timer-int\timer-int\timer-int.asm</FILE><LINE>244</LINE></TIMER1_INIT_MODE4>
+  <LOOP_PRINCIPAL><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\Lab3D\timer-int\timer-int\timer-int.asm</FILE><LINE>102</LINE></LOOP_PRINCIPAL>
+  <MensHello><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\Lab3D\timer-int\timer-int\timer-int.asm</FILE><LINE>273</LINE></MensHello>
+  <PRINT_USART0><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\Lab3D\timer-int\timer-int\timer-int.asm</FILE><LINE>143</LINE></PRINT_USART0>
+  <PRINT_USART0_REP><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\Lab3D\timer-int\timer-int\timer-int.asm</FILE><LINE>151</LINE></PRINT_USART0_REP>
+  <FIM_PRINT_USART0><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\Lab3D\timer-int\timer-int\timer-int.asm</FILE><LINE>158</LINE></FIM_PRINT_USART0>
+  <USART0_Transmit><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\Lab3D\timer-int\timer-int\timer-int.asm</FILE><LINE>210</LINE></USART0_Transmit>
+  <WAIT_TRANSMIT0><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\Lab3D\timer-int\timer-int\timer-int.asm</FILE><LINE>213</LINE></WAIT_TRANSMIT0>
+  <USART0_RECEIVE><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\Lab3D\timer-int\timer-int\timer-int.asm</FILE><LINE>228</LINE></USART0_RECEIVE>
+  <WAIT_RECEIVE0><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\Lab3D\timer-int\timer-int\timer-int.asm</FILE><LINE>231</LINE></WAIT_RECEIVE0>
+  <CARACTERE><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\Lab3D\timer-int\timer-int\timer-int.asm</FILE><LINE>284</LINE></CARACTERE>
+ </LABELS>
+</ASSEMBLER_INFO>
