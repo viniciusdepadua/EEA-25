@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\Release</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\Release/jigsaw.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>jigsaw.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>jigsaw.map</FILE>
+  <FILE>jigsaw.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>44</LINE></RESET>
+  <PARTIDA><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>56</LINE></PARTIDA>
+  <INT7_ENTRADA><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>52</LINE></INT7_ENTRADA>
+  <INT7_DRIVER><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>88</LINE></INT7_DRIVER>
+  <USART_INIT><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>172</LINE></USART_INIT>
+  <INIT_PORTS><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>228</LINE></INIT_PORTS>
+  <INIT_INTS><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>253</LINE></INIT_INTS>
+  <PARA_SEMPRE><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>67</LINE></PARA_SEMPRE>
+  <MENSAGEM><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>260</LINE></MENSAGEM>
+  <ENVIAR><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>108</LINE></ENVIAR>
+  <REP_DELAY><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>73</LINE></REP_DELAY>
+  <DELAY><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>133</LINE></DELAY>
+  <ENVIAR_REP><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>111</LINE></ENVIAR_REP>
+  <FIM_ENVIAR><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>117</LINE></FIM_ENVIAR>
+  <USART_Transmit><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>190</LINE></USART_Transmit>
+  <ATRASO><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>275</LINE></ATRASO>
+  <LOOP_DELAY><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>144</LINE></LOOP_DELAY>
+  <FIM_DELAY><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>158</LINE></FIM_DELAY>
+  <WAIT_TRANSMIT><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>194</LINE></WAIT_TRANSMIT>
+  <USART_RECEIVE><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>210</LINE></USART_RECEIVE>
+  <WAIT_RECEIVE><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3B\jigsaw\atmel-studio\jigsaw.asm</FILE><LINE>214</LINE></WAIT_RECEIVE>
+ </LABELS>
+</ASSEMBLER_INFO>
