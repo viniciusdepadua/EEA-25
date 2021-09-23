@@ -1,0 +1,47 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\Debug/servo_control.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>servo_control.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>servo_control.map</FILE>
+  <FILE>servo_control.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>42</LINE></RESET>
+  <VETOR_USART1RX><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>36</LINE></VETOR_USART1RX>
+  <USART1_RX1_INTERRUPT><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>65</LINE></USART1_RX1_INTERRUPT>
+  <INIT_PORTS><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>248</LINE></INIT_PORTS>
+  <USART1_INIT><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>269</LINE></USART1_INIT>
+  <TIMER1_INIT_MODE14><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>329</LINE></TIMER1_INIT_MODE14>
+  <FOREVER><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>55</LINE></FOREVER>
+  <CARACTERE><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>378</LINE></CARACTERE>
+  <USART1_TRANSMIT><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>292</LINE></USART1_TRANSMIT>
+  <READ_DIGIT1><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>126</LINE></READ_DIGIT1>
+  <READ_DIGIT2><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>117</LINE></READ_DIGIT2>
+  <READ_SIGN><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>112</LINE></READ_SIGN>
+  <READ_SERVO><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>107</LINE></READ_SERVO>
+  <INIT_PROTOCOL><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>103</LINE></INIT_PROTOCOL>
+  <PLUS_SIGN><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>179</LINE></PLUS_SIGN>
+  <MINUS_SIGN><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>209</LINE></MINUS_SIGN>
+  <SERVO_0><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>145</LINE></SERVO_0>
+  <SERVO_1><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>155</LINE></SERVO_1>
+  <SERVO_2><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>164</LINE></SERVO_2>
+  <WAIT_TRANSMIT1><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>295</LINE></WAIT_TRANSMIT1>
+  <USART1_RECEIVE><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>311</LINE></USART1_RECEIVE>
+  <WAIT_RECEIVE1><FILE>C:\Users\vinic\OneDrive\Documentos\EEA-25\lab3\lab3_final\servo_control\servo_control\servo_control.asm</FILE><LINE>314</LINE></WAIT_RECEIVE1>
+ </LABELS>
+</ASSEMBLER_INFO>
